@@ -9,3 +9,8 @@ zig run main.zig
 ```
 
 Выводит немного фигурни и делает вид, что это полезно.
+
+## Contributors
+
+- **asyx-creator** — автор проекта
+- **Codex** — помощь с кодом и README
